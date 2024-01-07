@@ -8,3 +8,14 @@ The technoliges I use for making in this website is following...
 (4)JQuery
 (5)Django
 
+ADMIN:-
+
+Username == admin
+Password == fahad123
+
+---------------------------------------
+
+Website:-
+
+Username == shaheer
+Password == 123
